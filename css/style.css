@@ -1,0 +1,51 @@
+h1{font-size:100px;}
+
+.colorRed{color:red;}
+
+.colorGreen{color:green;}
+
+
+body{margin:0px;}
+
+
+section{
+
+width:1200px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+margin-top: 100px;
+}
+
+
+.singlep{
+
+font-size: 25px;
+
+margin: :0;
+
+line-height: 1.6;
+
+background: #333638;
+
+color: #ffffff;
+
+padding: 30px
+}
+
+.boxparents{overflow: hidden;}
+
+
+.box{
+	width:33.33%;
+	float:left;
+	font-size: 25px;
+	padding:20px;
+	box-sizing: border-box;
+}
+
+.red{background: red; padding: 20px; text-align: justify;}
+.green{background: green; padding: 20px; text-align: justify;}
+.orange{background: orange; padding: 20px; text-align: justify;}
