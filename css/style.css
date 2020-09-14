@@ -39,13 +39,14 @@ padding: 30px
 
 
 .box{
-	width:33.33%;
+	width:25%;
 	float:left;
 	font-size: 25px;
 	padding:20px;
 	box-sizing: border-box;
 }
 
-.red{background: red; padding: 20px; text-align: justify;}
-.green{background: green; padding: 20px; text-align: justify;}
-.orange{background: orange; padding: 20px; text-align: justify;}
+.Cyan{background: Cyan; padding: 20px; text-align: justify;}
+.CadetBlue{background: CadetBlue; padding: 20px; text-align: justify;}
+.Aqua{background: Aquamarine; padding: 20px; text-align: justify;}
+.AntiqueWhite{background: AntiqueWhite; padding: 20px; text-align: justify;}
